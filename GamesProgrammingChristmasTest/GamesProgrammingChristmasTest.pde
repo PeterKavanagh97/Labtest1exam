@@ -69,7 +69,7 @@ ellipse(cloudX[5],cloudY[1],76,56);
    textSize(30);
   text("Love is love",300,665);
   text("Love is all",311,695);
-  text("All is love",315,725);
+  text("That is all",311,725);
 }
 
 void rainbow()
